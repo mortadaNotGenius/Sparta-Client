@@ -2,7 +2,7 @@
 
 ![photo Client](https://user-images.githubusercontent.com/101429553/170903378-57540333-9d94-48fb-b25f-02c769b98940.png)
 
-Sparta project,is a smart robot that doing automatic tasks.doing tasks like human does.is doing a lot of tasks, The human mind can't remember everything, so
+Sparta project is a smart robot that does automatic tasks.doing tasks like human does.is doing a lot of tasks, The human mind can't remember everything, so
 you will need it for some tasks.
 
 # questions :
