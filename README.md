@@ -39,3 +39,18 @@ G - No, is just a robot doing automatic tasks
 8 - Can I help with this Project? (H)
 
 H - Yes, You can help us by sending Suggestions or messaging me for other things
+
+
+#                                                   license and rules of use,
+
+1 - Do not sell our app.
+
+2 - Do not share the download link without the original link, this is how you take the effort.
+
+3 - Use at your own risk.
+
+4 - Make the app reputable
+
+                                                              Sparta
+
+                                          © 2022 Sparta-project inc. All Rights Reserved.
