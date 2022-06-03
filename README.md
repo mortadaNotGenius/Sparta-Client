@@ -55,6 +55,6 @@ I - Use Ctrl+Q To stop the Robot, to pause the Robot use Ctrl+P
 
 4 - Make the app reputable
 
-                                                           Sparta
+                                                         Sparta
 
-                                       © 2022 Sparta-project inc. All Rights Reserved.
+                                     © 2022 Sparta-project inc. All Rights Reserved.
