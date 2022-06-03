@@ -45,7 +45,7 @@ H - Yes, You can help us by sending Suggestions or messaging me for other things
 I - Use Ctrl+Q To stop the Robot, to pause the Robot use Ctrl+P
 
 
-#                                                   license and rules of use,
+#                                                   license and rules of use :
 
 1 - Do not sell our app.
 
