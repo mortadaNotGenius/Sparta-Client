@@ -36,6 +36,6 @@ F - Yes, it can remember everything without mistakes, but the human still does t
 
 G - No, is just a robot doing automatic tasks
 
-8 - Can i help on this Project? (H)
+8 - Can I help with this Project? (H)
 
-H - Yes, You can help us by sending Suggestions or messaging me for another things
+H - Yes, You can help us by sending Suggestions or messaging me for other things
