@@ -40,6 +40,10 @@ G - No, is just a robot doing automatic tasks
 
 H - Yes, You can help us by sending Suggestions or messaging me for other things
 
+9 - how I can stop the Robot? (I)
+
+I - Use Ctrl+Q To stop the Robot, to pause the Robot use Ctrl+P
+
 
 #                                                   license and rules of use,
 
