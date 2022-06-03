@@ -51,6 +51,6 @@ H - Yes, You can help us by sending Suggestions or messaging me for other things
 
 4 - Make the app reputable
 
-                                                              Sparta
+                                                           Sparta
 
-                                          © 2022 Sparta-project inc. All Rights Reserved.
+                                       © 2022 Sparta-project inc. All Rights Reserved.
