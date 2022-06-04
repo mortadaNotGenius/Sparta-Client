@@ -3,7 +3,7 @@
 ![photo Client](https://user-images.githubusercontent.com/101429553/170903378-57540333-9d94-48fb-b25f-02c769b98940.png)
 
 Sparta is a smart bot that performs automatic tasks, just like a human does. When doing a lot of tasks, the human mind can't remember everything, so
-you may need it for some tasks that are repetetive and annoying.
+you may need it for some tasks that are repetitive and annoying.
 
 # questions :
 
