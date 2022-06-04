@@ -37,15 +37,15 @@ G - No, Sparta is just a robot doing automatic tasks that you tell it to do.
 
 8 - Can I help with this Project? (H)
 
-H - Yes, You can send suggestions or messaging me for bugs that need to be fixed.
+H - Yes, You can send suggestions or message me about bugs that need to be fixed.
 
-9 - how I can stop the Robot? (I)
+9 - How I can stop the Robot? (I)
 
-I - Use Ctrl+Q To stop the Robot, to pause the Robot use Ctrl+P.
+I - Use Ctrl+Q to stop the Robot. To pause the Robot use Ctrl+P.
 
-10 - how I can use this Robot on Linux? (J)
+10 - Does this Robot work on Linux? (J)
 
-J - Yes, but it's harder to run it on Linux. The reason is how different operating systems work There are solutions though: you could follow this tutorial on how to open exes https://www.wikihow.com/Can-Linux-Run-Exe.
+J - This problem is similar to Mac. Different operating systems work differently. you can find a possible solution here: https://www.wikihow.com/Can-Linux-Run-Exe
 
 
 #                                                   license and rules of use :
