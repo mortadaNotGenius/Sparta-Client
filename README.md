@@ -48,7 +48,7 @@ I - Use Ctrl+Q to stop the Robot. To pause the Robot use Ctrl+P.
 J - This problem is similar to Mac. Different operating systems work differently. you can find a possible solution here: https://www.wikihow.com/Can-Linux-Run-Exe
 
 
-#                                                   license and rules of use :
+#                                                 license and rules of use :
 
 1 - Do not sell our app.
 
@@ -58,6 +58,6 @@ J - This problem is similar to Mac. Different operating systems work differently
 
 4 - Make the app reputable
 
-                                                         Sparta
+                                                       Sparta
 
-                                     © 2022 Sparta-project inc. All Rights Reserved.
+                                   © 2022 Sparta-project inc. All Rights Reserved.
