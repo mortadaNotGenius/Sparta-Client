@@ -19,6 +19,8 @@ B - Yes, you can use VPS or keep your computer on. Though, I recommended Using V
 
 C - Yes, but it's harder to run it on Mac. The reason is how different operating systems work. Macintosh can't run exe files, unlike Windows, which is what Sparta was designed and tested on. There are solutions though: you could follow this tutorial on how to open exes https://www.indeed.com/career-advice/career-development/how-to-open-exe-files-on-mac.
 
+4 - Can I use this robot on my phone? (D)
+
 D - No, it isn't possible to run exe files on the Phone. Sparta was designed on Windows, and will not come to mobile devices.
 
 5 - Does it get better each update? (E)
