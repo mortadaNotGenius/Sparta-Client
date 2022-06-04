@@ -5,6 +5,8 @@
 Sparta is a smart bot that performs automatic tasks, just like a human does. When doing a lot of tasks, the human mind can't remember everything, so
 you may need it for some tasks that are repetitive and annoying.
 
+𝐍𝐨𝐭𝐞!! 𝐝𝐨𝐧'𝐭 𝐫𝐮𝐧 𝐦𝐨𝐫𝐞 𝐭𝐡𝐚𝐧 𝟐 𝐑𝐨𝐛𝐨𝐭𝐬 𝐚𝐭 𝐭𝐡𝐞 𝐬𝐚𝐦𝐞 𝐭𝐢𝐦𝐞
+
 # questions :
 
 1 - do I need this robot? (A)
