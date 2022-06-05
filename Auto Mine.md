@@ -1,3 +1,5 @@
+# Designed for minecraft bedrock and java.
+
 + Auto break 
 
 + Auto Walk
