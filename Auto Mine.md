@@ -1,4 +1,4 @@
-# Designed for minecraft bedrock and java.
+# Designed for Minecraft bedrock and java.
 
 + Auto break 
 
