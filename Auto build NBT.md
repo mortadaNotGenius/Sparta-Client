@@ -9,4 +9,6 @@ how to use, enter Notepad++ and do Ctrl+H
 make sure the text is empty and is in normal mode - make the cursor at the field.
 
 finish the steps and click Enter
-![Screenshot (260)](https://user-images.githubusercontent.com/101429553/172052542-85e020d1-47e9-45cb-9004-0cba0a634854.png)
+![tutorial](https://user-images.githubusercontent.com/101429553/172053467-0ffb53e7-b767-4b5f-a0e8-4d3be38b4c51.jpg)
+
+
