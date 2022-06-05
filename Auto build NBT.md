@@ -4,7 +4,7 @@ Requirements
 
 Notepad++
 
-how to use, enter Notepad++ and do Ctrl+H 
+how to use,Click Auto build NBT on Sparta enter Notepad++ and do Ctrl+H 
 
 make sure the text is empty and is in normal mode - make the cursor at the field.
 
