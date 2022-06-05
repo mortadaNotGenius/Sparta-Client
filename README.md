@@ -11,7 +11,7 @@ you may need it for some tasks that are repetitive and annoying.
 
 1 - do I need this robot? (A)
 
-A - For some people, yes. For others, no. The entire reason this bot exists is to complete tedious tasks.
+A - For some people, yes. For others, no. The entire reason this bot exists is to complete tedious tasks,Designed for lengthy tasks that require a strong memory.
 
 2 - Can this bot Work 24/7? (B)
 
