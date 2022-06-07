@@ -49,6 +49,11 @@ I - Use Ctrl+Q to stop the Robot. To pause the Robot use Ctrl+P.
 
 J - This problem is similar to Mac. Different operating systems work differently. you can find a possible solution here: https://www.wikihow.com/Can-Linux-Run-Exe
 
+11 - The Robot Not working How i can fix it? (K)
+
+K - You Can fix The Robot by Clicking on the "Clean" button, You will find this button on Sparta, If that does not work Click Ctrl+Q 3 times or more,
+
+Another solution is to close The Client and opened again. If that not work You need to close all your windows applications.
 
 #                                                 license and rules of use :
 
