@@ -10,7 +10,8 @@ make sure the text is empty and is in normal mode - make the cursor at the field
 
 finish the steps and click Enter 
 
-https://user-images.githubusercontent.com/101429553/172053467-0ffb53e7-b767-4b5f-a0e8-4d3be38b4c51.jpg
+![172053467-0ffb53e7-b767-4b5f-a0e8-4d3be38b4c51](https://user-images.githubusercontent.com/101429553/172379939-c43c6460-9a69-4972-aaf2-d8efddac5112.jpg)
+
 
 
 
