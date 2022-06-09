@@ -14,3 +14,4 @@ finish the steps and click yes
 ![tutorial](https://user-images.githubusercontent.com/101429553/172053467-0ffb53e7-b767-4b5f-a0e8-4d3be38b4c51.jpg)
 
 
+![Veed Recording - 10 June 2022](https://user-images.githubusercontent.com/101429553/172959279-2925a15b-5cb6-4133-a24a-a6dc53e65a6c.gif)
