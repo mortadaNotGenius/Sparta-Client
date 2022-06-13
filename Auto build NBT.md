@@ -1,5 +1,7 @@
 auto converte commands to Build NPC
 -----------------------------------------------------------
+You can use it to convert any command to NPC
+
 Requirements
 
 Notepad++
