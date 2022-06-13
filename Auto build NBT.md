@@ -15,3 +15,8 @@ finish the steps and click yes
 
 
 ![Veed Recording - 10 June 2022](https://user-images.githubusercontent.com/101429553/172959279-2925a15b-5cb6-4133-a24a-a6dc53e65a6c.gif)
+
+use this site to converte your structure to mcfunction commands Enable only this option
+
+https://mcbe-essentials.github.io/structure-to-function/
+![Screenshot (267)](https://user-images.githubusercontent.com/101429553/172379690-0185d370-ab28-4121-8aba-985daef78a2b.png)
