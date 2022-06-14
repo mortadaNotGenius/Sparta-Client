@@ -1,4 +1,4 @@
-Auto farm 
+Auto Farm use it at your own risk on servers or anything, idk if it works on java.
 
 You need 
 
