@@ -5,7 +5,6 @@ You need :
 + Notepad++ 
 + close all normal notepad
 + copy your commands
-+ 
 make sure the text is empty and is in normal mode - make the cursor at the field.
 
 Your normal notepad should be format word wrap.
