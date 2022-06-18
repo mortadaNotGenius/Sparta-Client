@@ -14,7 +14,7 @@ close all your normal notepad
 
 if you find any bug check your notepad++ if is working on \n exteneded
 
-Limit of The NPC is 999 command per button, Mean 36 Kb every NPC
+Limit of The NPC is 999 line per button, Mean 36 Kb every NPC
 
 finish the steps and click yes
 ![tutorial](https://user-images.githubusercontent.com/101429553/172053467-0ffb53e7-b767-4b5f-a0e8-4d3be38b4c51.jpg)
