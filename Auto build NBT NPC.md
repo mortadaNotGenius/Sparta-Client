@@ -10,6 +10,10 @@ how to use,Click Auto build NBT on Sparta enter Notepad++ and do Ctrl+H
 
 make sure the text is empty and is in normal mode - make the cursor at the field.
 
+Your normal notepad should be format word wrap.
+
+![Screenshot (375)](https://user-images.githubusercontent.com/101429553/174429182-2e35bf90-1b57-4b97-8b33-e93237a44eef.png)
+
 close all your normal notepad
 
 if you find any bug check your notepad++ if is working on \n exteneded
