@@ -8,7 +8,8 @@ You need :
 make sure the text is empty and is in normal mode - make the cursor at the field.
 
 Your normal notepad should be format word wrap.
-https://user-images.githubusercontent.com/101429553/174429182-2e35bf90-1b57-4b97-8b33-e93237a44eef.png
+![Screenshot (375)](https://user-images.githubusercontent.com/101429553/174461812-e38fe239-6b3f-461f-8ead-b8d7f571eaa5.png)
+
 
 close all your normal notepad
 
