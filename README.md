@@ -59,7 +59,7 @@ Another solution is to close The Client and opened again. If that not work You n
 
 1 - Do not sell our app.
 
-2 - Do not share the download link without the original link, this is how you take the effort.
+2 - Do not share the download link without the original link, this is how you take our effort.
 
 3 - Use at your own risk.
 
