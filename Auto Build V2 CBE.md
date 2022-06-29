@@ -28,3 +28,6 @@ use this site to converte your structure to mcfunction commands Enable only this
 
 
 https://mcbe-essentials.github.io/structure-to-function/
+
+![how to use Auto Build NBT V2 CBE](https://user-images.githubusercontent.com/101429553/176498826-befe1126-dfc3-4946-a6cf-4ddc4707be26.gif)
+
