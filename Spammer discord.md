@@ -9,3 +9,4 @@ discord Dark Mode them, open the chat u want to start.
 
 
 a fast spammer can use by multiple members, Send messages like sparta text @here @everyone @member @Developer Pings
+could result, mute, ban , kick.
