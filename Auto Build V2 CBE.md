@@ -12,7 +12,7 @@ Your normal notepad should be format word wrap.
 
 The commands should be with / example/setblock if is not then add it
 
-in notepad++ click ctrl+H paste your commands on the notepad check the search mode and enable the normal mode on the find what option write setblock and replace with writing it /setblock and click replace all after that delete the text on the find what option and write fill in the replace option write /fill click replace all then start watch the video to see the other steps
+in notepad++ click ctrl+H paste your commands on the notepad check the search mode and enable the normal mode on the find what option write setblock and replace with writing it /setblock and click replace all after that delete the text on the find what option and write fill in the replace option write /fill click replace all then start watching the video to see the other steps
 
 if you find any bug check your notepad++ if is working on \n extended
 
